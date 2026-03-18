@@ -17,7 +17,7 @@
 
 💡 Strong expertise in **React Native, mobile architecture, API integrations, and end-to-end feature ownership**.  
 
-🎯 Currently based in **Germany** and open to opportunities.  
+🎯 Currently visiting **Germany** and open to opportunities.  
 
 ---
 
