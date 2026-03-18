@@ -1,5 +1,5 @@
 # **👋 Hi, I'm Ali Goher!**  
-🚀 **Senior React Native Developer | Mobile App Enthusiast**  
+🚀 **Senior Mobile Engineer (React Native) | Scalable Apps • 1M+ Users**  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ali-goher-shabir"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -11,11 +11,13 @@
 ---
 
 ### **💡 About Me**  
-👨‍💻 **Passionate Mobile Developer** with **7+ years of experience** in crafting seamless, high-performance mobile applications. My expertise includes **2 years in Android development** and **5 years in React Native**, specializing in **scalable, cross-platform solutions** with a focus on **clean architecture, UI/UX, and performance optimization**.  
+👨‍💻 Senior Mobile Engineer with **8+ years of experience** building high-performance mobile applications across **iOS and Android**.  
 
-💡 I thrive on **solving complex problems**, staying ahead of **cutting-edge technologies**, and ensuring delightful **user experiences**.  
+🚀 Contributed to production apps with **1M+ and 100K+ downloads**, focusing on **performance, scalability, and real-world user experience**.  
 
-🎯 **Looking to innovate, collaborate, and build next-gen mobile apps!**  
+💡 Strong expertise in **React Native, mobile architecture, API integrations, and end-to-end feature ownership**.  
+
+🎯 Currently based in **Germany** and open to opportunities.  
 
 ---
 
@@ -63,28 +65,29 @@
 ---
 
 ### **🚀 Notable Projects**  
-✅ **SC App** - Secure business texting & calling solution.  
-✅ **Buzz App** - Secure messaging with cashback rewards.  
-✅ **SoundBird** - Phone-to-microphone broadcasting app.  
-✅ **Prayer Time** - Global prayer timings with offline support.  
-✅ **Dreamio** - Smart home management & sleep enhancement.  
+
+🛍️ **LAAM** – E-commerce platform  
+→ 📈 **1M+ downloads**, 4.4★ rating  
+→ Scalable architecture, performance optimization  
+
+🎧 **SoundBird** – Audio / social app  
+→ 📈 **100K+ downloads**  
+→ Smooth UI, production-level improvements  
+
+💬 **Smarter Contact** – CRM & messaging platform  
+→ Real-world business workflows  
+→ Chat, API integrations, performance improvements  
 
 📱 **More on my GitHub →** [GitHub Projects](https://github.com/AliGoherShabir?tab=repositories)  
 
 ---
 
-### **🍳 Beyond the Code**  
-Life isn’t just about writing great code—it’s about balance, challenges, and growth. Here’s how I keep things exciting outside the world of programming:  
-
-🚴‍♂️ **Cycling Enthusiast** – I take my bike to work every other day, covering **35KM**+ like a pro ([Reel on Instagram](https://www.instagram.com/reel/DE_0KBXtBaD)). Fresh air, a clear mind, and a great way to start the day!  
-🏋️‍♂️ **Strength & Endurance** – Bodyweight training is my thing. Functional strength over everything!  
-🎯 **Extreme Focus** – I set ambitious goals and crush them. Just like I lost **22+ kg in 3 months**, I bring the same dedication to my work.  
-🏓 **Table Tennis Ace** – Not just a casual player—I take my shots seriously!  
-👨‍🍳 **Cooking with Passion** – I find creativity in the kitchen just like in coding. Experimenting with flavors, mastering new recipes, and plating dishes with perfection brings me joy. Watch me in action ([Reel on Instagram](https://www.instagram.com/reel/DEiHU6GN33d)).  
+### **🏃 Beyond the Code**  
+🚴‍♂️ Cycling • 🏋️ Fitness • 🎯 Discipline & consistency  
 
 ---
 
 ### **💬 Let's Connect!**  
 📧 **Email:** aligohershabir@gmail.com  
 🌐 **Portfolio:** [aligoher.vercel.app](https://aligoher.vercel.app)  
-💼 **LinkedIn:** [Ali Goher Shabir](https://www.linkedin.com/in/ali-goher-shabir)  
+💼 **LinkedIn:** [Ali Goher Shabir](https://www.linkedin.com/in/ali-goher-shabir)
